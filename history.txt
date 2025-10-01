@@ -1,0 +1,340 @@
+    1  pwd
+    2  cd
+    3  pwd
+    4  ls
+    5  pwd
+    6  cd Desktop/dc-economics
+    7  ls -a
+    8  cd data/raw/worldbank/
+    9  grep "GDP" countries.csv | wc -l
+   10  grep "GDP" WDIcountries.csv | wc -l
+   11  grep "Uzbekistan" WDIcountries.csv | wc -l
+   12  grep "Uzbekistan" WDIcountry.csv | wc -l
+   13  grep "GDP" WDIcountry.csv | wc -l
+   14  grep "GDP" WDIcountry.csv > gdp.txt
+   15  c
+   16  clear
+   17  cd ../../../
+   18  ls -l
+   19  /c/windows/system32/tree.com
+   20  history
+   21  history -w
+   22  cd
+   23  ls -a
+   24  history --help
+   25  ls -t
+   26  ls -ta
+   27  ls dash -l
+   28  ls /l
+   29  ls /l
+   30  pwd
+   31  cd Desktop/dc-economics/
+   32  touch sav_hist.sh
+   33  ls
+   34  mv sav_hist.sh save_hist.sh
+   35  ls
+   36  history -w
+   37  pwd
+   38  cd Desktop/dc-economics
+   39  ls -a
+   40  cd data/raw/worldbank/
+   41  grep "GDP" countries.csv | wc -l
+   42  grep "GDP" WDIcountries.csv | wc -l
+   43  grep "Uzbekistan" WDIcountries.csv | wc -l
+   44  grep "Uzbekistan" WDIcountry.csv | wc -l
+   45  grep "GDP" WDIcountry.csv | wc -l
+   46  grep "GDP" WDIcountry.csv > gdp.txt
+   47  c
+   48  clear
+   49  cd ../../../
+   50  ls -l
+   51  /c/windows/system32/tree.com
+   52  history
+   53  history -w
+   54  cd
+   55  ls -a
+   56  history --help
+   57  ls -t
+   58  ls -ta
+   59  ls dash -l
+   60  ls /l
+   61  ls /l
+   62  pwd
+   63  cd Desktop/dc-economics/
+   64  touch sav_hist.sh
+   65  ls
+   66  mv sav_hist.sh save_hist.sh
+   67  ls
+   68  history -w
+   69  code save_hist.sh
+   70  code save_hist.sh
+   71  mv sav_hist.sh save_hist.sh
+   72  code save_hist.sh
+   73  bash save_hist.sh
+   74  ls
+   75  code save_hist.sh
+   76  code save_hist.sh
+   77  nano save_history.sh
+   78  bash save_hist.sh
+   79  nano save_history.sh
+   80  bash save_hist.sh
+   81  bash save_hist.sh
+   82  history
+   83  history > history.txt
+   84  pwd
+   85  cd Desktop/
+   86  git clone https://github.com/shokh884/shokh_conversion.git
+   87  ls
+   88  ls -a
+   89  cd shokh_conversion/
+   90  ls
+   91  ls -a
+   92  pwd
+   93  code Tofo.txt
+   94  ls
+   95  cat Tofo.txt 
+   96  git status
+   97  git add Tofo.txt 
+   98  git status
+   99  git commit -m "start notes on conversion tools"
+  100  git config --global shokh884 "Shokhijakhon"
+  101  git status
+  102  git config --global user.name "shokh884"
+  103  git status
+  104  git commit -m "start notes on conversion tools"
+  105  git config --global user.name "shokh_conversion"
+  106  git status
+  107  git commit -m "start notes on conversion tools"
+  108  git config --list
+  109  q
+  110  git config --global user.email "tursunboy18@yahoo.com"
+  111  git commit -m "start notes on conversion tools"
+  112  git satuts
+  113  git status
+  114  code Tofo.txt 
+  115  ls
+  116  git diff
+  117  git status
+  118  git commit -m "Add a new conversion tool"
+  119  git add .
+  120  git status
+  121  git commit -m "Add a new conversion tool"
+  122  git status
+  123  mkdir directory
+  124  git status
+  125  git add directory
+  126  git status
+  127  cd directory/
+  128  git log
+  129  git push
+  130  git push
+  131  git push
+  132  git push
+  133  git push
+  134  git push
+  135  git push
+  136  git push
+  137  git status
+  138  history > history.txt
+  139  pwd
+  140  cd Desktop/
+  141  cd shokh_conversion/
+  142  git clone https://github.com/tursunboy18/shoh_conversion.git
+  143  cd shoh_conversion/
+  144  ls -a
+  145  git status
+  146  pwd
+  147  nano Todo.txt
+  148  code Todo.txt
+  149  ls
+  150  cat Todo.txt 
+  151  git status
+  152  git add Todo.txt
+  153  git status
+  154  git commit -m "Start notes on conversation"
+  155  git status
+  156  git log
+  157  code Todo.txt
+  158  cat Todo.txt 
+  159  git status
+  160  git diff
+  161  git commit -m "Add another tool"
+  162  git add Todo.txt 
+  163  git commit -m "Add another tool"
+  164  code Todo.txt 
+  165  cat Todo.txt 
+  166  git diff
+  167  git add Todo.txt 
+  168  git diff
+  169  git diff --staged
+  170  git commit -m "Add degrees to radians
+
+
+
+
+q
+
+
+
+
+pwd
+  171  wd
+  172  pwd
+  173  git status
+  174  git commit -m "Add"
+  175  git status
+  176  git log
+  177  mkdir directory
+  178  git status
+  179  git add directory
+  180  git status
+  181  git add <directory-with -files>
+  182  git add "directory-with -files"
+  183  git add "directory-with-files"
+  184  ls
+  185  git commit
+  186  git push origin main
+  187  git push
+  188  git push
+  189  turChuki_bozor123!
+  190  git push 
+  191  ls -al `/.ssh
+q
+  192  ls -al ~/.ssh
+  193  ssh-keygen -t ed25519 -C "tursunov_shokhijakho@student.ceu.edu"
+  194  eval "$(ssh-agent -s)"
+  195  ssh-add ~/.ssh/id_ed25519
+  196  cat ~/.ssh/id_ed25519.pub
+  197  git remote set-url origin git@github.com:tursunboy18/shoh_conversion.git
+  198  ssh -T git@github.com
+  199  git push
+  200  git pull
+  201  git status
+  202  ls
+  203  mkdir secret
+  204  touch secret/companynames.txt
+  205  code secret/companynames.txt 
+  206  code .gitignore
+  207  git status
+  208  git add .gitignore 
+  209  git status
+  210  git commit -m "add gitignore"
+  211  git status
+  212  git push
+  213  git status
+  214  ls -al
+  215  git ls-files | grep secret
+  216  ls -al
+  217  git status --ignored
+  218  pwd
+  219  cd Desktop
+  220  cd ../../
+  221  cd dc-economics/
+  222  ls
+  223  ls -R
+  224  /c/Windows/System32/tree.com
+  225  #!/usr/bin/env bash
+  226  history -a
+  227  history > historytest.txt
+  228  eco "history saved to historytest.txt"
+  229  echo "history saved to historytest.txt"
+  230  bash save_hist.sh
+  231  grep .GDP dc-economics
+  232  grep .gdp dc-economics
+  233  ls
+  234  cd data
+  235  ls
+  236  cd raw/worldbank/
+  237  wc WDICountry-Series.csv 
+  238  wc -l WDICountry-Series.csv 
+  239  wc -w WDICountry-Series.csv 
+  240  mkdir mytest
+  241  rm -r mytest
+  242  ls
+  243  cd ..
+  244  cd ..
+  245  cd ..
+  246  mkdir mytest
+  247  git init
+  248  echo "hi git: > readme.txt
+  249  git status
+  250  git add readme.txt
+  251  cd mytest/
+  252  echo "hi" > readme.txt
+  253  git status
+  254  git add readme.txt
+  255  git status
+  256  git commit -m "intial commit:
+  257  git commit -m "intial commit"
+  258  git status
+  259  code readme.txt 
+  260  cat readme.txt 
+  261  git log
+  262  git add readme.txt 
+  263  git status
+  264  git commit -m :second commiy"
+  265  git commit -m "second commit"
+  266  git log
+  267  git remote add origin https://github.com/tursunboy18/my_test.git
+  268  owd
+  269  pwd
+  270  git branch -M main
+  271  git push -u origin main
+  272  tursunbChuki_bozor123!
+  273  git push -u origin main
+  274  cd ..
+  275  git remote -v
+  276  git remote add origin https://github.com/tursunboy18/my_test.git
+  277  git branch -M main
+  278  git push -u origin main
+  279  git push -u origin main
+  280  git remote set-url origin git@github.com:tursunboy18/my_test.git
+  281  git remote -v
+  282  git push -u origin main
+  283  git branch -M main
+  284  git push -u origin main
+  285  git pull origin main --rebase
+  286  git push -u origin main
+  287  rm README.md
+  288  git pull origin main --rebase
+  289  git push -u origin main
+  290  code cookiecutter.json
+  291  git add cookiecutter.json 
+  292  git commit -m " edit json file"
+  293  git push origin main
+  294  git pull
+  295  git status
+  296  git pull
+  297  ls
+  298  cd !
+  299  cd ~
+  300  mkdir forktest
+  301  cd forktest/
+  302  git clone https://github.com/tursunboy18/swc-forklesson.git
+  303  code contributions.txt
+  304  git add 
+  305  git inti
+  306  git init
+  307  git add contributions.txt 
+  308  git commit -m "1"
+  309  git push 
+  310  git push contributions.txt
+  311  git push main
+  312  git push origin main
+  313  git status
+  314  git remote add origin https://github.com/your-username/your-repo.git
+  315  git push -u origin main
+  316  git push -u origin main
+  317  git push
+  318  git push --set-upstream origin main
+  319  tur
+  320  git remote -v
+  321  git remote set-url origin git@github.com:your-username/your-repo.git
+  322  git remote set-url origin git@github.com:tursunboy18/swc-forklesson.git
+  323  git remote -v
+  324  git push -u origin main
+  325  git pull --rebase origin main
+  326  git push -u origin main
+  327  git clone https://github.com/tursunboy18/cookiecutter-reproducible-science.git
+  328  code cookiecutter.json
+  329  history > history.txt
